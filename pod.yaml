@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: jav160696/newimage:latest
+          image: jav160696/k8sproject:latest
           imagePullPolicy: Always
